@@ -1,0 +1,18 @@
+button{
+    cursor: pointer;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 100px;
+    left: 100px;
+}
+.sadhu{
+    padding-inline: 50px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: burlywood;
+    box-shadow: 2px 2px 2px 2px lightcoral;
+    margin-top: 200px;
+
+}
